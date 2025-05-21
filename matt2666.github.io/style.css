@@ -1,0 +1,35 @@
+h1{
+        color:rgb(235,119,0);
+        font-size: 60px;
+        border: 10px rgb(0,0,0) inset;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+}
+h2{
+        color:rgb(34,89,141);
+        font-size: 40;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+}
+body{
+        background-color: whitesmoke;
+
+}
+p{
+        text-align: center;
+        font-size: medium;
+}
+img {
+        
+        display: block;
+        margin: auto;
+        width: 50%;
+
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+}
+a {
+  color: rgb(203, 105, 255);
+}
